@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Pizza Sales Data Analytics.iml" filepath="$PROJECT_DIR$/.idea/Pizza Sales Data Analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data Analytics.iml" filepath="$PROJECT_DIR$/.idea/Data Analytics.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e707c0c-1c8a-48ff-bd28-c0f29927dfaf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pizza Sales Data Analytics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/delivery-man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/down-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/filter (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/monitor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/order-delivery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/pizza-slice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/profit-growth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza Sales Images/test.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="PCsLRImE" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3L3xGzmoLw4kXlMeny88OiDTKYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [],
+  "modificationCount": 1
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e707c0c-1c8a-48ff-bd28-c0f29927dfaf" name="Changes" comment="" />
+      <created>1792696468316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792696468316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
